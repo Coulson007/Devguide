@@ -37,7 +37,7 @@
 <tbody>
 <tr id="autogyro_autogyro_thunderfly_auto-g2">
  <td style="vertical-align: top;"><a href="https://github.com/ThunderFly-aerospace/Auto-G2/">ThunderFly Auto-G2</a></td>
- <td style="vertical-align: top;"><p>Maintainer: ThunderFly s.r.o., Roman Dvorak <dvorakroman@thunderfly.cz></p><p><code>SYS_AUTOSTART</code> = 17002</p></td>
+ <td style="vertical-align: top;"><p>维护者: ThunderFly s.r.o., Roman Dvorak <dvorakroman@thunderfly.cz></p><p><code>SYS_AUTOSTART</code> = 17002</p></td>
 
 </tr>
 </tbody></table>
@@ -73,7 +73,7 @@
 <tbody>
 <tr id="copter_coaxial_helicopter_esky_(big)_lama_v4">
  <td style="vertical-align: top;">Esky (Big) Lama v4</td>
- <td style="vertical-align: top;"><p>Maintainer: Emmanuel Roussel</p><p><code>SYS_AUTOSTART</code> = 15001</p></td>
+ <td style="vertical-align: top;"><p>维护者: Emmanuel Roussel</p><p><code>SYS_AUTOSTART</code> = 15001</p></td>
 
 </tr>
 </tbody></table>
